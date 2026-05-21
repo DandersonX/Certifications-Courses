@@ -6,3 +6,6 @@ Training - Basic Molecular Biology Module 1: Basic Science (P.A.C.E.®)
 OneLab Reach CDC: Centers For Disease Control & Prevention
 Molecular Diagnostics Workflow, Nucleic Acid Fundamentals, Sequence Prediction, and Biological Processes
 
+OmicsLogic: Introduction to Bioinformatics Certification
+OmicsLogic
+Multi-Omics Concepts, Big Data in Biology, Bioinformatics Pipelines, and Translational Bioinformatics 
